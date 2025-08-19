@@ -18,4 +18,4 @@
 
 ---
 
-📫 Entre em contato pelo [LinkedIn](www.linkedin.com/in/hevellyn-alves-de-matos-097b56292)
+📫 Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/hevellyn-alves-de-matos-097b56292)
