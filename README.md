@@ -37,16 +37,14 @@ No momento, estudo ADS na cruzeiro do sul e estou construindo projetos web com *
 
 ---
 
-## 🚀 Projetos em destaque
-- 🗒️ [Lista de Tarefas](https://github.com/SEU_USUARIO/lista-de-tarefas) – CRUD simples com React  
-- 🧮 [Calculadora Web](https://github.com/SEU_USUARIO/calculadora) – HTML + CSS + JS  
-- 🐍 [API de Notas](https://github.com/SEU_USUARIO/api-notas) – Python + FastAPI + SQLite  
+## 🚀 Projetos em destaque  
+- 🧮 [Calculadora Web](https://github.com/SEU_USUARIO/calculadora) – HTML + CSS + JS    
 
 ---
 
 ## 📫 Contato
 - ✉️ Email: **hevellynmatos12@gmail.com**  
-- 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/www.linkedin.com/in/hevellyn-alves-de-matos-097b56292/)  
+- 💼 LinkedIn: www.linkedin.com/in/hevellyn-alves-de-matos-097b56292  
 
 ---
 
