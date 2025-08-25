@@ -36,6 +36,4 @@ No momento, estudo ADS na cruzeiro do sul e estou construindo projetos web com *
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/snake.svg" alt="Cobra de contribuições" />
-</p>
+- 💻 [Portfólio no GitHub](https://github.com/Hevellyn-pixel) 
