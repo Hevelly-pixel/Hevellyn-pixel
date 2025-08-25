@@ -25,18 +25,6 @@ No momento, estudo ADS na cruzeiro do sul e estou construindo projetos web com *
 
 ---
 
-## 📊 Estatísticas
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🚀 Projetos em destaque  
 - 🧮 [Calculadora Web](https://github.com/SEU_USUARIO/calculadora) – HTML + CSS + JS    
 
